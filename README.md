@@ -1,6 +1,6 @@
 ## Nota
 
-# Se creó este repositorio porque el fork estaba dando problemas
+Se creó este repositorio porque el fork estaba dando problemas
 
 # Getting Started with Create React App
 
